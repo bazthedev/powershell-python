@@ -9,3 +9,4 @@ os.startfile("powershell.exe")
 ```
 
 And just like that you should be in!
+This works on any computer with Python installed, as the 'os' library is installed along side python!
